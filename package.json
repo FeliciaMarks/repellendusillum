@@ -1,0 +1,35 @@
+{
+  "name": "repellendusillum",
+  "version": "1.0.0",
+  "description": "Collection of Lava implementation for different providers",
+  "main": "./bin/index.js",
+  "types": "./bin/index.d.ts",
+  "author": "BradRodriguez",
+  "license": "Apache-2.0",
+  "scripts": {
+    "tsc": "tsc",
+    "build": "yarn tsc"
+  },
+  "dependencies": {
+    "@lavanet/lava-sdk": "0.8.2",
+    "ethers": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeliciaMarks/repellendusillum.git"
+  },
+  "bin": {
+    "lava-sdk-providers": "bin/index.js"
+  },
+  "keywords": [
+    "eos",
+    "lavanetwork",
+    "voluptatum",
+    "incidunt",
+    "voluptatum",
+    "error",
+    "quia",
+    "et",
+    "amet"
+  ]
+}
